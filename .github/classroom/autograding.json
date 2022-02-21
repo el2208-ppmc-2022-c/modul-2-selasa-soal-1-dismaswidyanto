@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "1",
+      "setup": "make soal-01",
+      "run": "./soal-01",
+      "input": "file1.txt",
+      "output": "YOU DID IT!!",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "2",
+      "setup": "make soal-01",
+      "run": "./soal-01",
+      "input": "file2.txt",
+      "output": "WITH GREAT POWER COMES GREAT RESPONSIBILITY.",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "3",
+      "setup": "make soal-01",
+      "run": "./soal-01",
+      "input": "file3.txt",
+      "output": "DID YOU KNOW THAT SHINIGAMI LOVE APPLES?",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "4",
+      "setup": "make soal-01",
+      "run": "./soal-01",
+      "input": "file4.txt",
+      "output": "I CAN DO THIS ALL DAY.",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "5",
+      "setup": "make soal-01",
+      "run": "./soal-01",
+      "input": "file5.txt",
+      "output": "PIKA-PI... PIKACHUU!!!",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "6",
+      "setup": "make soal-01",
+      "run": "./soal-01",
+      "input": "file6.txt",
+      "output": "DORMAMMU, I'VE COME TO BARGAIN.",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "7",
+      "setup": "make soal-01",
+      "run": "./soal-01",
+      "input": "file7.txt",
+      "output": "IN THE NINJA WORLD, THOSE WHO DON'T FOLLOW THE RULES ARE TRASH. BUT, THOSE WHO ABANDON THEIR FRIENDS ARE EVEN WORSE THAN TRASH",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "8",
+      "setup": "make soal-01",
+      "run": "./soal-01",
+      "input": "file8.txt",
+      "output": "DO NOT GO GENTLE INTO THAT GOOD NIGHT, OLD RAGE SHOULD BURN AND RAVE AT CLOSE OF DAY; RAGE, RAGE AGAINST THE DYING OF THE LIGHT;",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "9",
+      "setup": "make soal-01",
+      "run": "./soal-01",
+      "input": "file9.txt",
+      "output": "IT'S WING-GAR-DIUM LEVI-O-SA, MAKE THE 'GAR' NICE AND LONG.",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "10",
+      "setup": "make soal-01",
+      "run": "./soal-01",
+      "input": "file10.txt",
+      "output": "DO YOU KNOW WHAT TIME IT IS? TIME TO DIE.",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
